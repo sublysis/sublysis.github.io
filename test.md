@@ -113,4 +113,4 @@ Results-driven **Cyber Security Analyst** with expertise in **penetration testin
 
 ---
 
-**© 2026 Laurent Schüller** | [GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+**© 2026 Laurent Schüller** | [GitHub](https://github.com/sublysis) | [LinkedIn](https://linkedin.com/in/sublysis)
