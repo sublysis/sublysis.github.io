@@ -4,6 +4,10 @@
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sublysis&theme=onedark)](https://github.com/sublysis/)
+
+---
+
 ## 📌 Professional Summary
 
 Results-driven **Cyber Security Analyst** with expertise in **penetration testing, SIEM, compliance, and threat intelligence**. Passionate about identifying vulnerabilities, implementing security measures, and protecting organizational assets. Strong background in **risk assessment, incident response, and security architecture**.
