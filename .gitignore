@@ -229,3 +229,4 @@ build.json
 
 *.md
 !Readme.md
+!test.md
