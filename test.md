@@ -4,7 +4,7 @@
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sublysis&theme=onedark)](https://github.com/sublysis/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sublysis&theme=onedark&title=LongTimeUser,Experience,Commits)](https://github.com/sublysis/)
 
 ---
 
@@ -108,6 +108,8 @@ Results-driven **Cyber Security Analyst** with expertise in **penetration testin
 - **[Other Language]:** [Proficiency Level]
 
 ---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sublysis&" alt="sublysis" /></p>
 
 ---
 
