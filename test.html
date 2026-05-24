@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laurent Schüller | Cyber Security Analyst</title>
+    <style>
+        :root {
+            --primary-color: #184b5b;
+            --secondary-color: #3498db;
+            --accent-color: #e74c3c;
+            --light-color: #ecf0f1;
+            --dark-color: #2c3e50;
+            --text-color: #333;
+            --text-light: #7f8c8d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background-color: var(--light-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            background: white;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+        }
+
+        header {
+            background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+            color: white;
+            padding: 40px 30px;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+        }
+
+        header p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+            flex-wrap: wrap;
+        }
+
+        .contact-info a {
+            color: white;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: opacity 0.3s;
+        }
+
+        .contact-info a:hover {
+            opacity: 0.8;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        section:last-child {
+            margin-bottom: 0;
+        }
+
+        h2 {
+            color: var(--primary-color);
+            border-bottom: 2px solid var(--secondary-color);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        .section-content {
+            background: white;
+            padding: 20px;
+            border-radius: 5px;
+            border-left: 4px solid var(--secondary-color);
+        }
+
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .skill {
+            background: var(--light-color);
+            padding: 8px 15px;
+            border-radius: 20px;
+            font-size: 0.9rem;
+            margin-bottom: 10px;
+        }
+
+        .timeline {
+            position: relative;
+            padding-left: 30px;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            width: 2px;
+            background: var(--secondary-color);
+        }
+
+        .timeline-item {
+            position: relative;
+            margin-bottom: 20px;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            left: -36px;
+            top: 0;
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+            background: var(--secondary-color);
+        }
+
+        .timeline-item h3 {
+            margin-bottom: 5px;
+        }
+
+        .timeline-item p {
+            margin-bottom: 5px;
+            font-size: 0.9rem;
+            color: var(--text-light);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background: var(--primary-color);
+            color: white;
+            font-size: 0.9rem;
+        }
+
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2rem;
+            }
+
+            .content {
+                padding: 20px;
+            }
+
+            .contact-info {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Laurent Schüller</h1>
+            <p>Cyber Security Analyst</p>
+            <div class="contact-info">
+                <!-- Add your contact details here -->
+                <a href="mailto:your-email@example.com"><i class="fas fa-envelope"></i> Email</a>
+                <a href="https://linkedin.com/in/your-profile" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+                <a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i> GitHub</a>
+                <a href="tel:+49123456789"><i class="fas fa-phone"></i> Phone</a>
+                <a href="#"><i class="fas fa-map-marker-alt"></i> Location</a>
+            </div>
+        </header>
+
+        <div class="content">
+            <!-- Professional Summary -->
+            <section>
+                <h2>Professional Summary</h2>
+                <div class="section-content">
+                    <p>
+                        <!-- Add a brief professional summary here -->
+                        Results-driven Cyber Security Analyst with expertise in [e.g., penetration testing, SIEM, compliance, threat intelligence].
+                        Passionate about identifying vulnerabilities, implementing security measures, and protecting organizational assets.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Work Experience -->
+            <section>
+                <h2>Work Experience</h2>
+                <div class="section-content">
+                    <div class="timeline">
+                        <!-- Add your work experience here -->
+                        <div class="timeline-item">
+                            <h3>Cyber Security Analyst</h3>
+                            <p><strong>Company:</strong> [Company Name]</p>
+                            <p><strong>Duration:</strong> [Month/Year] – [Month/Year or "Present"]</p>
+                            <ul>
+                                <li>Responsible for [Task 1, e.g., conducting vulnerability assessments].</li>
+                                <li>Implemented [Task 2, e.g., security policies and procedures].</li>
+                                <li>Collaborated with [Task 3, e.g., cross-functional teams to mitigate risks].</li>
+                            </ul>
+                        </div>
+                        <!-- Add more positions here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Education -->
+            <section>
+                <h2>Education</h2>
+                <div class="section-content">
+                    <div class="timeline">
+                        <!-- Add your education here -->
+                        <div class="timeline-item">
+                            <h3>[Degree]</h3>
+                            <p><strong>Institution:</strong> [Institution Name]</p>
+                            <p><strong>Duration:</strong> [Month/Year] – [Month/Year]</p>
+                            <p><em>[Field of Study or Focus]</em></p>
+                        </div>
+                        <!-- Add more degrees here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Skills -->
+            <section>
+                <h2>Skills</h2>
+                <div class="section-content">
+                    <div class="skills">
+                        <!-- Add your skills here -->
+                        <span class="skill">Penetration Testing</span>
+                        <span class="skill">SIEM</span>
+                        <span class="skill">Firewalls</span>
+                        <span class="skill">IDS/IPS</span>
+                        <span class="skill">Python</span>
+                        <span class="skill">Bash</span>
+                        <span class="skill">NIST</span>
+                        <span class="skill">ISO 27001</span>
+                        <span class="skill">CISSP</span>
+                        <span class="skill">CEH</span>
+                        <span class="skill">Threat Intelligence</span>
+                        <span class="skill">Incident Response</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Certifications -->
+            <section>
+                <h2>Certifications</h2>
+                <div class="section-content">
+                    <div class="timeline">
+                        <!-- Add your certifications here -->
+                        <div class="timeline-item">
+                            <h3>[Certification Name]</h3>
+                            <p><strong>Issuer:</strong> [Issuing Organization]</p>
+                            <p><strong>Year:</strong> [Year]</p>
+                        </div>
+                        <!-- Add more certifications here -->
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects -->
+            <section>
+                <h2>Projects</h2>
+                <div class="section-content">
+                    <!-- Add your projects here -->
+                    <div class="timeline-item">
+                        <h3>[Project Name]</h3>
+                        <p><strong>Description:</strong> [Brief description of the project].</p>
+                        <p><strong>Technologies:</strong> [Technologies Used]</p>
+                        <p><a href="#" target="_blank">Link to Project (if available)</a></p>
+                    </div>
+                    <!-- Add more projects here -->
+                </div>
+            </section>
+        </div>
+
+        <footer>
+            <p>&copy; 2026 Laurent Schüller. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
