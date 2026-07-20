@@ -47,19 +47,14 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 
 ### **Technical Skills**
 
-- **Penetration Testing:** Metasploit, Burp Suite, Nessus, OpenVAS
-- **SIEM & Logging:** Splunk, ELK Stack, Wazuh, Graylog
-- **Network Security:** Firewalls (Cisco, Palo Alto), IDS/IPS (Snort, Suricata)
-
+- **Penetration Testing:** Parrot, Sliver, Adaptix
+- **Network Security:** IDS/IPS (YARA, Universal Blocklist Syntax)
 - **Compliance & Frameworks:** ISO 27001, NIST, GDPR, EU AI Act, CRA
-
-- **Programming:** Python, Bash, PowerShell, SQL
+- **Testing Frameworks:** SANS, PTES, OSSTMM
+- **Programming:** Python, Bash, PowerShell, SQL, PHP, JS
 - **Cloud Security:** AWS, Azure, GCP (IAM, Security Groups, Encryption)
-- **Threat Intelligence:** MISP, AlienVault OTX, ThreatConnect
-- **Incident Response:** Forensic Analysis, Malware Analysis, IR Plans
-
-C2 infrastructure 
-
+- **Threat Intelligence:** MISP, AlienVault OTX, Vallanx
+- **OpSec:** C2 infrastructure, Proxy Management, 
 
 
 ### **Soft Skills**
