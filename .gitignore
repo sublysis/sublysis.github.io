@@ -227,6 +227,6 @@ composer.json
 composer.lock
 build.json
 
-*.md
+!*.md
 !Readme.md
 !test.md
