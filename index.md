@@ -15,8 +15,10 @@
 
 ### Soft Skills
 <span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Analytical Thinking</span>
-<span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Problem-Solving</span>
+<span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Critical Problem-Solving</span>
 <span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Communications</span>
+<span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Presentation / Rethorics</span>
+<span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Strategic Planning</span>
 
 ---
 
@@ -53,14 +55,6 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 - **Cloud Security:** AWS, Azure, GCP (IAM, Security Groups, Encryption)
 - **Threat Intelligence:** MISP, AlienVault OTX, Vallanx
 - **OpSec:** C2 infrastructure, Proxy Management, Exploit Development, IIoT Hardening
-
-
-### **Soft Skills**
-
-- Analytical Thinking
-- Problem-Solving
-- Team Collaboration
-- Communication (Technical & Non-Technical)
 
 ---
 
@@ -106,4 +100,4 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 
 ---
 
-**© 2026 Laurent Schüller** |
+**© 2026 Laurent Schueller** |
