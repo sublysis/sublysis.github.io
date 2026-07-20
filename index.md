@@ -1,6 +1,6 @@
-# Laurent Schüller
+# Laurent Schueller
 
-**PenTester & GRC Engineer** | [Email](mailto:sublysis@techmail.at) | [LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/sublysis) | [Location](Hamburg)
+**PenTester & GRC Engineer** | [Email](mailto:sublysis@techmail.at) | [LinkedIn](https://linkedin.com/in/your-profile) | [TryHackMe](https://tryhackme.com/p/aristopunk)
 
 ---
 
@@ -19,10 +19,6 @@
 <span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Analytical Thinking</span>
 <span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Problem-Solving</span>
 <span style="display: inline-block; background-color: #f0f9ff; color: #0ea5e9; padding: 4px 12px; border-radius: 20px; margin: 2px; font-size: 0.9em;">Communications</span>
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sublysis&theme=onedark&title=LongTimeUser,Experience,Commits)](https://github.com/sublysis/)
 
 ---
 
@@ -115,7 +111,7 @@ C2 infrastructure
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sublysis&" alt="sublysis" /></p>
 
-![](https://komarev.com/ghpvc/?username=sublysis%color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=sublysis&color=blue&style=flat)
 
 ---
 
