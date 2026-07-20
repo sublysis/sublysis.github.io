@@ -1,5 +1,3 @@
-# Laurent Schueller
-
 **PenTester & GRC Engineer** | [Email](mailto:sublysis@techmail.at) | [LinkedIn](https://linkedin.com/in/your-profile) | [TryHackMe](https://tryhackme.com/p/aristopunk)
 
 ---
