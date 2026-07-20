@@ -104,8 +104,6 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sublysis&" alt="sublysis" /></p>
 
-![](https://komarev.com/ghpvc/?username=sublysis&color=blue&style=flat)
-
 ---
 
 **© 2026 Laurent Schüller** |
