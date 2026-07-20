@@ -48,11 +48,11 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 - **Penetration Testing:** Parrot, Sliver, Adaptix
 - **Network Security:** IDS/IPS (YARA, Universal Blocklist Syntax)
 - **Compliance & Frameworks:** ISO 27001, NIST, GDPR, EU AI Act, CRA
-- **Testing Frameworks:** SANS, PTES, OSSTMM
+- **Testing Frameworks:** SANS, PTES, OSSTMM, OWASP, NIST
 - **Programming:** Python, Bash, PowerShell, SQL, PHP, JS
 - **Cloud Security:** AWS, Azure, GCP (IAM, Security Groups, Encryption)
 - **Threat Intelligence:** MISP, AlienVault OTX, Vallanx
-- **OpSec:** C2 infrastructure, Proxy Management, 
+- **OpSec:** C2 infrastructure, Proxy Management, Exploit Development, IIoT Hardening
 
 
 ### **Soft Skills**
@@ -108,4 +108,4 @@ Cyber Security Analyst & Penetration Tester with hands-on expertise in threat in
 
 ---
 
-**© 2026 Laurent Schüller** | [GitHub](https://github.com/sublysis) | [LinkedIn](https://linkedin.com/in/sublysis)
+**© 2026 Laurent Schüller** |
